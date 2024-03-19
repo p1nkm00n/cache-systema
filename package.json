@@ -1,0 +1,29 @@
+{
+  "name": "cache-systema",
+  "version": "1.0.0",
+  "description": "Caches data efficiently to reduce database load and increase performance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p1nkm00n/cache-systema"
+  },
+  "author": "p1nkm00n",
+  "license": "MIT",
+  "dependencies": {
+    "cache-systema": "1.0.0",
+    "websocket-framework": "1.0.0",
+    "debug": "1.0.0",
+    "fs-extra": "1.0.0",
+    "react": "1.0.0",
+    "web3-utils": "1.0.0",
+    "xml2js": "1.0.0",
+    "validator": "1.0.0",
+    "moment": "1.0.0",
+    "body-parser": "1.0.0",
+    "firebase": "1.0.0",
+    "cheerio": "1.0.0"
+  }
+}
